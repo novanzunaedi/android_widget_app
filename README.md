@@ -12,4 +12,4 @@ In order to make the app work, you need an api key from CoinMarketCap.
 
     Add the following variable to local.properties :
 
-coin.market.cap.api = key.coin.market.api = TYPE_KEY_HERE_WITHOUT_QUOTE
+key.coin.market.api = TYPE_KEY_HERE_WITHOUT_QUOTE
